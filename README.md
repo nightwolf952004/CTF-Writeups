@@ -1,39 +1,58 @@
-# CTF Writeups
+<div align="center">
 
-Kho lưu trữ các bài viết phân tích (writeup) về thử thách CTF mà tôi đã hoàn thành trong quá trình học tập và rèn luyện kỹ năng An toàn thông tin.
+# 🚩 CTF Writeups
 
-Mục tiêu của repository này là ghi lại tư duy giải quyết vấn đề, kỹ thuật khai thác, công cụ sử dụng và những kiến thức rút ra sau mỗi thử thách.
+### 🔐 Kho lưu trữ Writeup CTF & Hành trình nâng cao kỹ năng An toàn thông tin
 
-## Nội dung chính
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Type-CTF%20Writeups-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Updating-success?style=for-the-badge">
 
-- **PicoCTF** – Các thử thách dành cho người mới bắt đầu đến nâng cao.  
-- **HTB CTF** – Các bài thuộc hệ sinh thái Hack The Box.  
-- **TryHackMe** – Challenge và phòng lab thực hành.  
-- **Web Exploitation** – Lỗ hổng web, logic flaw, injection, auth bypass...  
-- **Crypto** – Mật mã học, giải mã, phân tích thuật toán.  
-- **Reverse** – Dịch ngược chương trình, phân tích binary, crackme.
+</div>
 
-## Mục tiêu phát triển
+---
 
-- Nâng cao tư duy khai thác và phân tích bảo mật.  
-- Rèn luyện kỹ năng thực hành thực tế.  
-- Xây dựng tài liệu học tập cá nhân có hệ thống.  
-- Chia sẻ kiến thức với cộng đồng.
+## 📌 Giới thiệu
 
-## Công cụ thường sử dụng
+Đây là kho lưu trữ các bài viết phân tích (**Writeup**) về những thử thách CTF mà tôi đã hoàn thành trong quá trình học tập và rèn luyện kỹ năng **An toàn thông tin**.
 
-- Burp Suite  
-- Wireshark  
-- Python  
-- Ghidra / IDA Free  
-- Linux / Kali Linux  
-- CyberChef
+Repository này được xây dựng nhằm ghi lại:
 
-## Lưu ý
+- 🧠 Tư duy giải quyết vấn đề  
+- ⚔️ Kỹ thuật khai thác lỗ hổng  
+- 🛠️ Công cụ sử dụng trong quá trình xử lý  
+- 📚 Kiến thức và kinh nghiệm rút ra sau mỗi thử thách  
 
-Tất cả nội dung trong repository chỉ phục vụ mục đích học tập, nghiên cứu và nâng cao kỹ năng phòng thủ.  
-Các writeup chỉ được đăng tải sau khi thử thách kết thúc hoặc được phép công khai.
+---
 
-## Thông tin thêm
+## 📂 Nội dung chính
 
-Tôi sẽ tiếp tục cập nhật repository này trong quá trình học tập và tham gia các cuộc thi CTF.
+| Danh mục | Mô tả |
+|--------|------|
+| 🌱 PicoCTF | Các thử thách từ cơ bản đến nâng cao |
+| 🧱 HTB CTF | Challenge thuộc hệ sinh thái Hack The Box |
+| 🚀 TryHackMe | Lab thực hành và challenge đa dạng |
+| 🌐 Web Exploitation | SQLi, XSS, Auth Bypass, Logic Flaw... |
+| 🔐 Crypto | Giải mã, phân tích thuật toán mật mã |
+| 🧬 Reverse | Reverse Engineering, Binary Analysis |
+
+---
+
+## 🎯 Mục tiêu phát triển
+
+- 📈 Nâng cao tư duy khai thác và phân tích bảo mật  
+- 💻 Tăng cường kỹ năng thực hành thực tế  
+- 🗂️ Xây dựng tài liệu học tập có hệ thống  
+- 🤝 Chia sẻ kiến thức với cộng đồng Security  
+
+---
+
+## 🛠️ Công cụ thường sử dụng
+
+```bash
+Burp Suite
+Wireshark
+Python
+Ghidra / IDA Free
+Linux / Kali Linux
+CyberChef
