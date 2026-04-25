@@ -1,1 +1,1 @@
-# ctf-challenges
+CTF Writeups
